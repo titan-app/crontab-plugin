@@ -1,0 +1,5 @@
+{
+  "name": "Crontab 规则生成器",
+  "description": "通过这个生成器,您可以在线生成任务调度比如 Quartz 的 Cron 表达式,对 Quartz Cron 表达式的可视化双向解析和生成."
+}
+
